@@ -3,7 +3,7 @@
 A movie and event booking landing page built with Bootstrap 5, custom CSS, and vanilla JavaScript.
 
 ## Live Demo
-Not deployed yet
+https://showtime-hb.netlify.app
 
 ## Screenshot
 ![ShowTime homepage](screenshot.png)
